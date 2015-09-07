@@ -2,20 +2,20 @@
     "id": 1,
     "name": "Awesome Speaker",
     "company": "Company, Germany",
-    "photoUrl": "../../images/people/android.jpg"
+    "photoUrl": "images/people/android.jpg"
 }, {
     "id": 2,
     "name": "Awesome Speaker",
     "company": "Company, Germany",
-    "photoUrl": "../../images/people/android.jpg"
+    "photoUrl": "images/people/android.jpg"
 }, {
     "id": 3,
     "name": "Awesome Speaker",
     "company": "Company, Germany",
-    "photoUrl": "../../images/people/android.jpg"
+    "photoUrl": "images/people/android.jpg"
 }, {
     "id": 4,
     "name": "Awesome Speaker",
     "company": "Company, Germany",
-    "photoUrl": "../../images/people/android.jpg"
+    "photoUrl": "images/people/android.jpg"
 }]
