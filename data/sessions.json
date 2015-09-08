@@ -1,11 +1,11 @@
 [
   {
     "id": 101,
-    "title": "TBD",
-    "description": "Awesome Talk",
+    "title": "HTTP/2 for developers",
+    "description": "HTTP/2 (formerly SPDY) has been around for a while quite a while. By now, the Evergreen browsers support it and the nginx, Apache and other backends are adapting. What are the benefits? Is it relevant to you? Yes. Details in the talk.",
     "speakers": [1],
     "language": "en",
-    "complexity": "Beginner",
+    "complexity": "Expert",
     "presentation": "",
     "video": ""
   },
