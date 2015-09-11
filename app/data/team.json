@@ -1,0 +1,134 @@
+[{
+    "id": 1,
+    "name": "Marco Pöhler",
+    "title": "Freelancer & Geschäftsführer",
+    "chapter": "GDG Hamburg",
+    "company": "Kontaktlinsen Preisvergleich",
+    "photoUrl": "../../images/people/marco.jpg",
+    "bio": "Software-Developer with strong online marketing focus. Created some successful price comparison websites which enables him to spend most of his time exploring new web technologies or repairing his old car (A Dodge Charger from 1972).",
+    "tags": ["Polymer", "Web"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://plus.google.com/+MarcoPöhler"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/mpoehler"
+    }, {
+        "name": "Website",
+        "link": "http://www.kontaktlinsen-preisvergleich.de/"
+    }]
+}, {
+    "id": 2,
+    "name": "Matthias Friedrich",
+    "title": "Android Developer",
+    "chapter": "GDG Hamburg Android",
+    "company": "Jimdo",
+    "country": "",
+    "photoUrl": "../../images/people/matthias.jpg",
+    "bio": "As Android user from the beginning, he started to develop for the platform with version 1.6 in 2009. Since then he is following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions . During these years, he also co-founded the GDG Bremen and GDG Hamburg Android, gave several Android related talks and organized developer events around Google technologies in general.",
+    "tags": ["Android Wear", "AndroidTV", "UI"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://google.com/+MatthiasFriedrich"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/mtthsfrdrch"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/mtthsfrdrch"
+    }]
+}, {
+    "id": 3,
+    "name": "Serj Lotutovici",
+    "title": "Android Developer",
+    "chapter": "GDG Hamburg Android",
+    "company": "Xing",
+    "country": "",
+    "photoUrl": "../../images/people/serj.jpg",
+    "bio": "",
+    "tags": ["Architecture"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://google.com/+LotutoviciSerj"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/SLotutovici"
+    }]
+}, {
+    "id": 4,
+    "name": "Ingo Oeser",
+    "title": "Developer",
+    "chapter": "GDG Hamburg Golang",
+    "company": "Jimdo",
+    "country": "",
+    "photoUrl": "../../images/people/ingo.png",
+    "bio": "Night owl who loves reading lots of code, science fiction and fantasy. Writing Go code for fun and profit.",
+    "tags": ["Go"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://google.com/+IngoOeser"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/nightlyone"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/nightlyone"
+    }]
+}, {
+    "id": 5,
+    "name": "Martin Thielecke",
+    "title": "Developer",
+    "chapter": "GDG Hamburg Golang",
+    "company": "veeseo",
+    "country": "",
+    "photoUrl": "../../images/people/martin.jpg",
+    "bio": "",
+    "tags": ["Go", "Web"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://google.com/+MartinThielecke"
+    }, {
+        "name": "Website",
+        "link": "http://www.mthie.com"
+    }]
+}, {
+    "id": 7,
+    "name": "Inga Breuer",
+    "title": "Software Developer",
+    "chapter": "GDG Member",
+    "company": "Fuse",
+    "photoUrl": "../../images/people/inga.png",
+    "bio": "",
+    "tags": ["Android"],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://plus.google.com/110302548402901939726"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/ingabreuer22"
+    }]
+}, {
+    "id": 6,
+    "name": "Björn Jensen",
+    "title": "",
+    "chapter": "GDG Hamburg Android",
+    "company": "",
+    "country": "",
+    "photoUrl": "../../images/people/bjoern.jpg",
+    "bio": "",
+    "tags": [],
+    "badges": [],
+    "socials": [{
+        "name": "Google+",
+        "link": "https://google.com/+BjörnJensen_hh"
+    }, {
+        "name": "Twitter",
+        "link": "http://twitter.com/mirouhh"
+    }]
+}]

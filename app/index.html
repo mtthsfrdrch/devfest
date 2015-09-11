@@ -9,7 +9,7 @@
     <meta name="description" content="The biggest Google tech conference in northern germany carefully crafted for you by GDG's of Hamburg! All the latest about Android, Web and Cloud!">
     <meta name="keywords" content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, hamburg, cloud, dfua">
     <meta name="google-site-verification" content="GxUE9cpxaP54b7Ymknz-fxWBiIUrJOqx1PZ5gkRHGeY" />
-    <link rel="canonical" href="http://gdghamburg.github.io/devfest">
+    <link rel="canonical" href="http://www.devfest.de">
     <title>GDG DevFest Hamburg 2015 &bull; November 5-6, Hamburg</title>
 
     <!-- Social: Twitter -->
@@ -17,14 +17,14 @@
     <meta name="twitter:site" content="@androidhh">
     <meta name="twitter:title" content="GDG DevFest Hamburg 2015 &bull; November 5-6, Hamburg">
     <meta name="twitter:description" content="The biggest Google tech conference in northern germany carefully crafted for you by GDG's of Hamburg! All the latest about Android, Web and Cloud!">
-    <meta name="twitter:image:src" content="http://gdghamburg/images/GDG_DevFest_Hamburg_2015.png">
+    <meta name="twitter:image:src" content="http://www.devfest.de/images/GDG_Hamburg_500.png">
 
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:title" content="GDG DevFest Hamburg 2015 &bull; November 5-6, Hamburg" />
     <meta property="og:site_name" content="GDG DevFest Hamburg 2015 &bull; November 5-6, Hamburg" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://gdghamburg.github.io/devfest/" />
-    <meta property="og:image" content="http://gdghamburg.github.io/devfest/images/GDG_DevFest_Hamburg_2015.png" />
+    <meta property="og:url" content="http://www.devfest.de" />
+    <meta property="og:image" content="http://http://www.devfest.de/images/GDG_Hamburg_500.png" />
     <meta property="og:description" content="The biggest Google tech conference in norther Germany carefully crafted for you by GDG community! All the latest about Android, Web and Cloud" />
 
     <!-- Chrome for Android theme color -->
@@ -77,7 +77,8 @@
                 <paper-menu class="list" attr-for-selected="data-route" selected="{{route}}" on-iron-select="onMenuSelect">
                     <a data-route="#!/home" href="/">Home</a>
                     <a data-route="#!/blog" href="/blog">Blog</a>
-                    <!-- <a data-route="#!/speakers" href="/speakers">Speakers</a> -->
+                    <a data-route="#!/speakers" href="/speakers">Speakers</a>
+                    <!-- <a data-route="#!/team" href="/team">Team</a> -->
                     <!-- <a data-route="contact" href="/contact">Contact</a> -->
                 </paper-menu>
             </paper-header-panel>
@@ -91,9 +92,9 @@
                                     <div class="layout vertical-horizontal">
                                         <div class="flex center-content-xs">
                                             <img class="logo" src="images/GDG_DevFest_HH_text_1line.png" alt="GDG DevFest 2015">
-                                            <p class="dates bold">November 5-6, Hamburg</p>
-                                            <p class="description">The biggest Google tech conference in norther Germany carefully crafted for you by the GDG's of Hamburg! All the latest about Android, Web and Cloud.</p>
-                                            <p class="slogan">Think out of the box. Create what you want!</p>
+                                            <p class="dates bold">November 5-6, Betahaus Hamburg</p>
+                                            <p class="description">The biggest Google tech conference in norther Germany carefully crafted for you by the GDG's of Hamburg! All the latest about Android, Web and Cloud.<br>Cannot come to Hamburg? <a href="https://developers.google.com/events/devfest/" target="_blank">Find</a> a DevFest near you!</p>
+                                            <p class="slogan">Think out of the box, create ...and share!</p>
                                             <div class="links layout horizontal align-pb-block">
                                                 <a href="http://goo.gl/forms/MDTttSCkgr" target="_blank">
                                                     <paper-button noink raised class="colorful">
@@ -112,7 +113,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GDG%20DevFest%20Hamburg%202015&dates=20151105T140000/20151106T200000&details=The%20biggest%20Google%20tech%20conference%20in%20norther%20Germany%20carefully%20crafted%20for%20you%20by%20the%20GDG%27s%20of%20Hamburg!%20All%20the%20latest%20about%20Android%2C%20Web%20and%20Cloud!%20Awesome%20speakers%20and%20lot's%20of%20fun!%20Details%20at%20http://gdghamburg.github.io/devfest/&location=Betahaus%20Hamburg%2C%20Eifflerstra%C3%9Fe%2043%2C%2022769%20Hamburg%2C%20Germany&pli=1&uid=&sf=true&output=xml#eventpage_6"
+                                <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GDG%20DevFest%20Hamburg%202015&dates=20151105T140000/20151106T200000&details=The%20biggest%20Google%20tech%20conference%20in%20norther%20Germany%20carefully%20crafted%20for%20you%20by%20the%20GDG%27s%20of%20Hamburg!%20All%20the%20latest%20about%20Android%2C%20Web%20and%20Cloud!%20Awesome%20speakers%20and%20lot's%20of%20fun!%20Details%20at%20http://www.devfest.de/&location=Betahaus%20Hamburg%2C%20Eifflerstra%C3%9Fe%2043%2C%2022769%20Hamburg%2C%20Germany&pli=1&uid=&sf=true&output=xml#eventpage_6"
                                 target="_blank" onclick="ga('send', 'add-event-to-calendar', 'button', 'click');">
                                     <paper-fab class="section-fab-right" icon="icons:event"></paper-fab>
                                 </a>
@@ -121,9 +122,9 @@
                             <featured-people source="../../data/featured-speakers.json">
                                 <h4 class="heading">Rockstar Speakers</h4>
                             </featured-people>
-                            <call-to-action></call-to-action>
+                            <!-- <call-to-action></call-to-action> -->
                             <photo-block></photo-block>
-                            <tickets-block></tickets-block>
+                            <!-- <tickets-block></tickets-block> -->
                             <latest-news source="../../data/blog.json"></latest-news>
                             <!-- <social-feed source="http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=7200"></social-feed> -->
                             <map-block></map-block>
@@ -156,6 +157,18 @@
                             <people-block id="people-block" class="container-atop" source="../../data/speakers.json" sessions-source="../../data/sessions.json"></people-block>
                             <footer-block></footer-block>
                         </section>
+                        <section data-route="team">
+                            <hero-block class="section-shadow container-before-atop" style="background: #00BCD4; color: #fff;">
+                                <div class="top-section">
+                                    <div class="title-wrapper layout horizontal">
+                                        <h3 class="self-end">Team</h3>
+                                    </div>
+                                    <!-- <paper-fab class="section-fab-right" icon="social:share"></paper-fab> -->
+                                </div>
+                            </hero-block>
+                            <team-block id="team-block" class="container-atop" source="../../data/team.json"></team-block>
+                            <footer-block></footer-block>
+                        </section>
                         <section data-route="code-of-conduct">
                             <hero-block class="section-shadow container-before-atop" style="background: #455A64; color: #fff;">
                                 <div class="top-section">
@@ -182,7 +195,7 @@
             <platinum-sw-cache default-cache-strategy="networkFirst" precache-file="precache.json">
             </platinum-sw-cache>
         </platinum-sw-register>
-        <webfont-loader families="Roboto:100,400&subset=latin"></webfont-loader>
+        <webfont-loader families="Roboto:300,400&subset=latin"></webfont-loader>
     </template>
     <google-analytics code="UA-55639785-1"></google-analytics>
     <!-- build:js scripts/app.js -->

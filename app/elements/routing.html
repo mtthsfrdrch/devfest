@@ -53,6 +53,22 @@
             document.querySelector('#people-block').closePerson();
         });
 
+        page('/team', function() {
+            trackPageview('/team');
+            app.route = 'team';
+        });
+
+        page('/team/:id', function(data) {
+            trackPageview('/team/' + data.params.id);
+            app.route = 'team';
+            app.params = data.params;
+            app.scrollToTop();
+        });
+
+        page.exit('/team/:id', function() {
+            document.querySelector('#team-block').closePerson();
+        });
+
         page('/contact', function() {
             trackPageview('/contact');
             app.route = 'contact';
