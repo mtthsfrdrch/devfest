@@ -217,6 +217,12 @@ during a build.
 
 Going to use template? Go on! The only thing we ask - let us know at [lviv@gdg.org.ua](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
 
+| [GDG DevFest Ukraine](http://devfest.gdg.org.ua) |
+| :------------ |
+| [GDG DevFest Sao Paulo](http://sp.devfest.com.br)  |
+| [GDG DevFest Hamburg 2015](http://devfest.de)  |
+
+
 ## Contributing
 
 Project Hoverboard is still under development and it is open for contributions. Feel free to send PR. If you have any questions, feel free to contact [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
