@@ -82,9 +82,13 @@
         </template>
       </div>
       <div class="details">[[localize('tickets-details')]]</div>
-      <a href$="[[app.data.tickets.url]]" target="_blank" on-tap="_trackBuyClick">
+
+      <paper-button class="buy-button" raised disabled>Tickets available shortly</paper-button>
+
+      <!--a href$="[[app.data.tickets.url]]" target="_blank" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
-      </a>
+      </a-->
+
     </div>
 
   </template>

@@ -1,16 +1,5 @@
 [
   {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
-  },
-  {
     "title": "general-partner",
     "logos": [
       {
@@ -19,54 +8,30 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
+        "name": "XING",
+        "url": "https://xing.com",
+        "logoUrl": "../images/logos/Xing_logo.svg"
+      }
+    ]
+  },
+  {
+    "title": "venue-partner",
+    "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
+        "name": "Mindspace",
+        "url": "http://mindspace.me",
+        "logoUrl": "../images/logos/Logo_MINDSPACE.png"
+      }
+    ]
+  },
+  {
+    "title": "template-creator",
+    "logos": [
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "GDG Lviv",
+        "url": "https://plus.google.com/u/1/b/114226021900650933814/114226021900650933814",
+        "logoUrl": "../images/logos/gdg-lviv.svg",
+        "width": 170
       }
     ]
   }

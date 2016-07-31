@@ -1,216 +1,199 @@
 [
   {
-    "title": "Core Team",
+    "title": "The Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Alisa Trunczik",
+        "photoUrl": "/images/people/alisa_trunczik.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+AlisaTrunczik",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/alisa.lisenok91",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/AlisaRazumova",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
+            "icon": "github",
+            "link": "https://github.com/AlisaTrun",
+            "name": "Github"
           }
         ],
-        "title": "Website and sponsors"
+        "title": ""
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Inga Breuer",
+        "photoUrl": "/images/people/inga_breuer.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/110302548402901939726",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/ingabreuer22",
+            "name": "Twitter"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Saddia-Kiran Malik",
+        "photoUrl": "/images/people/saddia_malik.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/103968738232176282147",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/saddiakiran.malik",
             "name": "Facebook"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.catchawish.de",
+            "name": "Blog"
           }
         ],
-        "title": "Social and media"
+        "title": ""
       },
       {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "name": "Marco Pöhler",
+        "photoUrl": "/images/people/marco_poehler.jpg",
         "socials": [
           {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
+            "icon": "gplus",
+            "link": "https://plus.google.com/+MarcoPöhler",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/marco.poehler",
+            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/marcopoehler",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://v.zasadnyy.com/",
+            "link": "https://www.kontaktlinsen-preisvergleich.de",
             "name": "Blog"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/mpoehler",
+            "name": "Github"
+          }
+        ],
+        "title": "Website"
+      },
+      {
+        "name": "Matthias Friedrich",
+        "photoUrl": "/images/people/matthias_friedrich.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+MatthiasFriedrich",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/mtthsfrdrch",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/mtthsfrdrch",
+            "name": "Github"
           }
         ],
         "title": "Speakers"
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Serj Lotutovici",
+        "photoUrl": "/images/people/serj.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
+            "link": "https://google.com/+LotutoviciSerj",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/p1f",
+            "link": "https://twitter.com/SLotutovici",
             "name": "Twitter"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "André Tietz",
+        "photoUrl": "/images/people/andre_tietz.jpg",
+        "socials": [
+          {
+            "icon": "github",
+            "link": "https://github.com/andretietz",
+            "name": "Github"
+          },
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+Andr%C3%A9Tietz",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/antietz",
+            "name": "Twitter"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Martin Thieleke",
+        "photoUrl": "/images/people/martin_thielecke.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+MartinThielecke",
+            "name": "Google+"
           },
           {
             "icon": "website",
-            "link": "http://andrusiv.com/",
+            "link": "http://www.mthie.com",
             "name": "Blog"
           }
         ],
-        "title": "Sponsors"
+        "title": ""
       },
       {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "name": "Guus van Weelden",
+        "photoUrl": "/images/people/guus_van_weelden.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
+            "link": "https://google.com/+GuusvanWeelden192",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
+            "link": "https://www.facebook.com/guus.v.w",
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
-        ],
-        "title": "Android Stream"
+        "title": ""
       }
     ]
   }
